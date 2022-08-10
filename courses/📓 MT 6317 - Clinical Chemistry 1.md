@@ -8,5 +8,5 @@
 - [Schedule - Laboratory]()
 
 ## Resources
-- [Official Textbook]()
+- [Official Textbook](file:///C:/Users/AJ%20De%20Castro/Google%20Drives/University/Resources/Third%20Year/Basic%20Reading/Clinical%20Chemistry%20-%20Principles,%20Techniques,%20and%20Correlations.pdf)
 - [Laboratory Manual]()
